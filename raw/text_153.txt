@@ -1,0 +1,1 @@
+['A bollard is a sturdy', 'is now also used to', 'a post on a ship']

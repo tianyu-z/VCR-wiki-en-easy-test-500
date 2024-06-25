@@ -1,0 +1,1 @@
+['Beirut is the capital and', 'as part of Greater Beirut', 'estimated population of slightly more']

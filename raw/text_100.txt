@@ -1,0 +1,1 @@
+['following is a list of', 'died of natural and accidental']

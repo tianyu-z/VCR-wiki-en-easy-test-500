@@ -1,0 +1,1 @@
+['phase equaliser or lattice filter', 'an example of an all', 'all frequencies but the relative', 'the attenuation of the filter']

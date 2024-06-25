@@ -1,0 +1,1 @@
+['a city in Gordon County', 'it had a population of', 'Gordon County is home to']

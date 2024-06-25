@@ -1,0 +1,1 @@
+['Railway Company Osaka Loop Line', 'a railway station on the', 'There is a transfer to']

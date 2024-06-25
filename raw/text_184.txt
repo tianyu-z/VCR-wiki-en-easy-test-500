@@ -1,0 +1,1 @@
+['Island lies in the eastern', 'lies west of Rusinga Island']

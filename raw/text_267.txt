@@ -1,0 +1,1 @@
+['stadium located to the west', 'on the island of Barbados']

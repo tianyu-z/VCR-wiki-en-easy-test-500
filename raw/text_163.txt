@@ -1,0 +1,1 @@
+['is made up of Members', 'represents a single geographic constituency']

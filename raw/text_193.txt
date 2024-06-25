@@ -1,0 +1,1 @@
+['a breed of horse that', 'With a distinctive head shape']

@@ -1,0 +1,1 @@
+['auto racing team founded by', 'the team moved on to']

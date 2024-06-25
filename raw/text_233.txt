@@ -1,0 +1,1 @@
+['Building is a landmark building', 'The building is part of']

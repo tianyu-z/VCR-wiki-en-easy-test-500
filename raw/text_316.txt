@@ -1,0 +1,1 @@
+['College is a private college', 'institution of higher education in']

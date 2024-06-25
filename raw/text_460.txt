@@ -1,0 +1,1 @@
+['mountain located on the island', 'the highest elevation point of', 'is located on the top']

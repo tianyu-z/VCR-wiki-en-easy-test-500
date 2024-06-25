@@ -1,0 +1,1 @@
+['clock is a clock that', 'of a pendulum for timekeeping']

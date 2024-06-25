@@ -1,0 +1,1 @@
+['a manufacturer of microcars based', 'The company was founded in']
